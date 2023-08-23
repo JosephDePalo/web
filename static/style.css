@@ -1,11 +1,12 @@
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	font-family: serif ;
+	background: #2d353b ;
+	color: #d3c6aa ;
+	font-size: 20px;
 }
 
-main {
-	max-width: 800px ;
+article {
+	max-width: 1000px ;
 	margin: auto ;
 }
 
@@ -17,9 +18,58 @@ header h1 {
 	text-align: center ;
 }
 
+header ul {
+	text-align: right ;
+	margin-right: 100px;
+}
+
 footer {
 	text-align: center ;
 	clear: both ;
+}
+
+a:link {
+	color: #7fbbb3;
+}
+
+a:visited {
+  	color: #4b8d84;
+}
+
+a:hover {
+  color: #9fdbb3;
+}
+
+a:active {
+  color: #7fbbb3;
+}
+
+.menu li {
+	text-align: center;
+	list-style-type: none;
+	display: inline;
+	margin: 0 15px;
+}
+
+
+.menu a:link {
+	color: #7fbbb3;
+	text-decoration: none;
+}
+
+.menu a:visited {
+  	color: #7fbbb3;
+	text-decoration: none;
+}
+
+.menu a:hover {
+  	color: #7fbbb3;
+	text-decoration: none;
+}
+
+.menu a:active {
+  	color: #7fbbb3;
+  	text-decoration: none;
 }
 
 /* For TAGLIST.HTML */

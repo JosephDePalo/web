@@ -1,6 +1,7 @@
 ---
 title: "Joseph DePalo"
 date: 2023-08-17T16:38:00-04:00
+layout: single
 ---
 # Introduction
 
@@ -15,4 +16,5 @@ and cybersecurity skills.
 - [📚 Library](/library)
 - [📜 Posts](/blog)
 - [⚙️ Projects](/projects)
+- [🌎 Status](/status)
 
