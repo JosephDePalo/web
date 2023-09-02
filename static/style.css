@@ -78,6 +78,10 @@ a:active {
 	clear: both ;
 }
 
+.center {
+	text-align: center ;
+}
+
 /* For NEXTPREV.HTML */
 #nextprev {
 	/* The container for both the previous and next articles. */

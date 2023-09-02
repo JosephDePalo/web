@@ -27,3 +27,7 @@ I could have stopped here and just opened up port 22 on my home firewall, and ev
 
 # Conclusion
 Now that I have a low power Linux server I can run 24/7 I now have the opportunity to self-host content and access it from wherever I want. PiVPN provides me an additional layer of access control so I can selectively expose some services to the internet and others only to my home network and authorized devices. Next I will probably setup some microservices to run on it using Docker.
+
+{{< image
+src="/images/pi_neofetch.png"
+alt="My Pi running Debian" >}}
