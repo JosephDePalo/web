@@ -1,7 +1,6 @@
 ---
 title: "Projects"
-date: 2023-08-17T16:38:10-04:00
-top: false
-draft: true
+date: 2000-01-04T00:00:00-00:00
+top: true
 ---
 
