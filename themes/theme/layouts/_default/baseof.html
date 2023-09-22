@@ -20,7 +20,7 @@
 <header>
 	<div class="row">
 		<ul id="list" class="menu">
-			<li id="title" class="menu"><a href="{{ .Site.BaseURL }}">Joseph DePalo</a></li>
+			<li id="title" class="menu"><a href="{{ .Site.BaseURL }}">Home</a></li>
 			{{- range where .Site.Pages "Params.top" true }}
 			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 			{{- end }}
