@@ -1,4 +1,4 @@
 baseURL = 'http://jdepalo.com/'
 languageCode = 'en-us'
 title = 'Joseph DePalo'
-theme = 'lugo'
+theme = 'theme'
