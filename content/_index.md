@@ -4,13 +4,6 @@ date: 2023-08-17T16:38:00-04:00
 layout: single
 ---
 
-{{< imagesize
-src="/images/pfp.jpeg"
-alt="Me"
-height="339px"
-width="300px"
->}}
-
 Hello! My name is Joseph, a sophomore at [Stevens Institute of Technology](https://www.stevens.edu/)
 studying computer science. I am interested in cybersecurity, computer networking, distributed
 systems, and data engineering.
