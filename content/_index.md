@@ -19,9 +19,6 @@ I usually spend my free time reading, weightlifting, or learning something new. 
 working on setting up a home lab for self-hosting services and practicing my system administration
 and cybersecurity skills.
 
-### [Resume](/files/resume.pdf)
-
-
 ## Links
 - [GitHub](https://github.com/JosephDePalo)
 - [LinkedIn](https://www.linkedin.com/in/joseph-depalo/)

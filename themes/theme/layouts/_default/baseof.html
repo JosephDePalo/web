@@ -24,6 +24,7 @@
 			{{- range where .Site.Pages "Params.top" true }}
 			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 			{{- end }}
+			<li><a href="/files/resume.pdf">Resume</a></li>
 		</ul>
 	</div>
 	<h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1>
